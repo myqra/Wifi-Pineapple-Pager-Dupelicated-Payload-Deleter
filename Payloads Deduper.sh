@@ -85,35 +85,3 @@ done
 
 echo "=== Done ==="
 echo "Backups stored in: $BACKUP_DIR"
-
-
-
-
-121 barrels
-118 flower pots 108 dead horn coral fan
-110 spruce signs
-107 bamboo
-57 white carpet
-142 lanterns
-118 bookshelfs
-95 oak leaves
-83 oak trapdoor
-41 light gray carpet
-46 smooth quartyz stairs
-38 decorated pots
-36 gray wool
-35 poppys
-35 red carpet
-27 dead buysh
-25 oak sign
-27 spruce fence gate17 
-smooth quartz blocvk
- 17 warped stairs 
-16 mangrove wood
-15 flowering azalea leaves
-14 anvils
-13 brewiong stands 
-13 brown carpet
-11 sea pickl;e 
-11 dark prismarine slabs
-10 dark oak signs
